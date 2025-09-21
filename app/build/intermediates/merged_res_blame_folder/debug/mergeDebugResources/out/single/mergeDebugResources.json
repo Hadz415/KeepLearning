@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_test_layout.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\test_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_relative_layout_test.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\relative_layout_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_my_layout_example_l.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\my_layout_example_l.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\drawable_opp.png.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\drawable\\opp.png"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\drawable_cat.jpg.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\drawable\\cat.jpg"
+    },
+    {
+        "merged": "com.example.keeplearning.app-debug-34:/layout_activity_main.xml.flat",
+        "source": "com.example.keeplearning.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-anydpi_ic_launcher.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-anydpi\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_frame_layout_test.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\frame_layout_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_my_layout_example_r.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\my_layout_example_r.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_linear_layout_example.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\linear_layout_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_linear_layout_test.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\linear_layout_test.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-anydpi_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-anydpi\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\layout_relative_layout_example.xml.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\layout\\relative_layout_example.xml"
+    },
+    {
+        "merged": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-debug-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\29531\\.gradle\\daemon\\8.13\\com.example.keeplearning.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    }
+]

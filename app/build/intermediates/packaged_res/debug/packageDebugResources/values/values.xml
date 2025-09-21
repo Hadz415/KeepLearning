@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="blue">#00BCD4</color>
+    <color name="darkBlue">#3F51B5</color>
+    <color name="gray">#D3D3D3</color>
+    <color name="green">#81C784</color>
+    <color name="light_gray">#E0E0E0</color>
+    <color name="red">#F44336</color>
+    <color name="white">#FFFFFFFF</color>
+    <item name="main" type="id"/>
+    <string name="app_name">KeepLearning</string>
+    <style name="Base.Theme.KeepLearning" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.KeepLearning" parent="Base.Theme.KeepLearning"/>
+</resources>
