@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/light_gray"
+    android:orientation="vertical"
+    android:padding="10dp"
+    >
+
+    <include layout="@layout/my_layout_example_r"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="服务"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:background="@color/white"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="收藏"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:background="@color/white"
+        android:layout_marginTop="10dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="朋友圈"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:background="@color/white"
+        android:layout_marginTop="2dp"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="视频号"
+        android:textSize="25sp"
+        android:padding="10dp"
+        android:background="@color/white"
+        android:layout_marginTop="10dp"
+        />
+
+
+</LinearLayout>
