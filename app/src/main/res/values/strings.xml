@@ -1,3 +1,26 @@
 <resources>
     <string name="app_name">KeepLearning</string>
+
+
+    <string name="title">首页</string>
+
+    <!--    "打搅",
+            "睡觉",
+            "打乌蒙",
+            "打CHUNITHM",
+            "打明日方舟",
+            "吃饭",
+            "学习"-->
+
+    <string-array name="myStrArray">
+        <item>"打搅"</item>
+        <item>"打乌蒙"</item>
+        <item>"打CHUNITHM"</item>
+        <item>"打明日方舟"</item>
+        <item>"打搅"</item>
+        <item>"吃饭"</item>
+        <item>"学习"</item>
+
+
+    </string-array>
 </resources>

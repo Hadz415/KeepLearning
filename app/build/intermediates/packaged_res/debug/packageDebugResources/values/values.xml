@@ -1,15 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string-array name="myStrArray">
+        <item>"打搅"</item>
+        <item>"打乌蒙"</item>
+        <item>"打CHUNITHM"</item>
+        <item>"打明日方舟"</item>
+        <item>"打搅"</item>
+        <item>"吃饭"</item>
+        <item>"学习"</item>
+
+
+    </string-array>
     <color name="black">#000000</color>
     <color name="blue">#00BCD4</color>
     <color name="darkBlue">#3F51B5</color>
+    <color name="deep_green">#26770A</color>
     <color name="gray">#D3D3D3</color>
     <color name="green">#81C784</color>
     <color name="light_gray">#E0E0E0</color>
+    <color name="light_purple">#FFBB86FC</color>
+    <color name="purple">#FF6200EE</color>
     <color name="red">#F44336</color>
     <color name="white">#FFFFFFFF</color>
+    <dimen name="buttonHeight">50dp</dimen>
+    <dimen name="textHeight">60dp</dimen>
     <item name="main" type="id"/>
     <string name="app_name">KeepLearning</string>
+    <string name="title">首页</string>
     <style name="Base.Theme.KeepLearning" parent="Theme.Material3.DayNight.NoActionBar">
         
         

@@ -1,5 +1,6 @@
 R_DEF: Internal format may change without notice
 local
+array myStrArray
 color black
 color blue
 color darkBlue
@@ -12,8 +13,13 @@ drawable cat
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable opp
+id btn_change_java
+id btn_long
+id btn_short
+id etAccount
 id image
 id imageView
+id iv_pic
 id main
 id textView
 id textView2
@@ -25,9 +31,11 @@ id text_name
 id tv_content
 id tv_content1
 id tv_content2
+id tv_hello
 id tv_img
 id tv_title
 layout activity_main
+layout activity_main2
 layout frame_layout_test
 layout linear_layout_example
 layout linear_layout_test
@@ -35,10 +43,13 @@ layout my_layout_example_l
 layout my_layout_example_r
 layout relative_layout_example
 layout relative_layout_test
+layout res_test_layout
 layout test_layout
+layout view_layout
 mipmap ic_launcher
 mipmap ic_launcher_round
 string app_name
+string title
 style Base.Theme.KeepLearning
 style Theme.KeepLearning
 xml backup_rules

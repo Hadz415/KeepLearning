@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+
+    <TextView
+        android:id="@+id/tv_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="hello"
+        android:textSize="40sp"
+        android:background="@color/green"
+        android:gravity="center"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="今天干什么"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:layout_margin="20dp"
+        android:onClick="changeText"
+        />
+
+    <Button
+        android:id="@+id/btn_change_java"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Java改变文字"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/btn_short"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹短toast"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:layout_margin="20dp"
+        />
+
+    <Button
+        android:id="@+id/btn_long"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="弹长toast"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="25sp"
+        android:layout_margin="20dp"
+        />
+
+
+</LinearLayout>

@@ -83,6 +83,7 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array myStrArray
 attr SharedValue
 attr SharedValueId
 attr actionBarDivider
@@ -3765,6 +3766,9 @@ id bounce
 id bounceBoth
 id bounceEnd
 id bounceStart
+id btn_change_java
+id btn_long
+id btn_short
 id buttonPanel
 id cache_measures
 id callMeasure
@@ -3848,6 +3852,7 @@ id enterAlways
 id enterAlwaysCollapsed
 id entireSpace
 id escape
+id etAccount
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -3900,6 +3905,7 @@ id invisible
 id inward
 id italic
 id item_touch_helper_previous_elevation
+id iv_pic
 id jumpToEnd
 id jumpToStart
 id labeled
@@ -4167,6 +4173,7 @@ id triangle
 id tv_content
 id tv_content1
 id tv_content2
+id tv_hello
 id tv_img
 id tv_title
 id unchecked
@@ -4312,6 +4319,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_main2
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -4396,11 +4404,13 @@ layout notification_template_part_chronometer
 layout notification_template_part_time
 layout relative_layout_example
 layout relative_layout_test
+layout res_test_layout
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
 layout support_simple_spinner_dropdown_item
 layout test_layout
+layout view_layout
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
@@ -4577,6 +4587,7 @@ string searchview_navigation_content_description
 string side_sheet_accessibility_pane_title
 string side_sheet_behavior
 string status_bar_notification_info_overflow
+string title
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
 style Animation_AppCompat_Dialog

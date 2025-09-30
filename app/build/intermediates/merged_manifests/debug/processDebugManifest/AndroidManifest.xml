@@ -31,13 +31,18 @@
         android:testOnly="true"
         android:theme="@style/Theme.KeepLearning" >
         <activity
-            android:name="com.example.keeplearning.MainActivity"
-            android:exported="true" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
+            android:name="com.example.keeplearning.ResActivity"
+            android:exported="false" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+        <intent-filter>
+            <action android:name="android.intent.action.MAIN" />
+
+            <category android:name="android.intent.category.LAUNCHER" />
+        </intent-filter>
+
+        <activity
+            android:name="com.example.keeplearning.MainActivity3"
+            android:exported="true" >
         </activity>
 
         <provider
